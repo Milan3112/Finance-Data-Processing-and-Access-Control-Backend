@@ -1,7 +1,7 @@
 # Finance-Data-Processing-and-Access-Control-Backend
-🚀 Backend Ledger API
 
 A secure and scalable backend application built using Node.js and Express for handling authentication, user management, and financial/ledger-related operations.
+
 📌 Overview
 
 This project is a backend system designed to manage user authentication and ledger-based operations. It includes secure login/signup functionality, database integration, and API endpoints for handling data efficiently.
